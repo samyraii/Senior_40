@@ -126,6 +126,7 @@ html {
    top: 0;
 }
 .ertha2 {
+   position: fixed;
    background-color: rgb(58 227 54 / 62%);
    color: black;
    font-size: 15px;
