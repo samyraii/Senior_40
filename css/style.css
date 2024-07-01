@@ -121,13 +121,12 @@ html {
 }
 /* //////// */
 .landing-ertha2 {
-   position: absolute;
+   position: fixed;
    width: 100%;
    top: 0;
 }
 .ertha2 {
-   width: 100%;
-   position: fixed;
+
    background-color: rgb(58 227 54 / 48%);
    color: black;
    font-size: 15px;
