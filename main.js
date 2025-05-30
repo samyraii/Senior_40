@@ -3,7 +3,7 @@ const count = document.querySelector(".count");
 const doneTwo = document.querySelector(".landing .container");
 //const ertha2 = document.querySelector(".landing .container .textTwo");
 
-let countdowndate = new Date("Sept 29, 2025 00:00:00").getTime();
+let countdowndate = new Date("Oct 1, 2025 00:00:00").getTime();
 let counter = setInterval(()  => {
 
     let dateNow = new Date().getTime();
